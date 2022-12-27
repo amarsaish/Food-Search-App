@@ -1,3 +1,9 @@
+
+#The link of deployed Food-search App: food-search-web.netlify.app
+# Type the food item you wish in search bar 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
