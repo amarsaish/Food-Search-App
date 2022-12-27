@@ -1,5 +1,5 @@
 
-#The link of deployed Food-search App: [food search app](food-search-web.netlify.app)
+#The link of deployed Food-search App: [link here](food-search-web.netlify.app)
 
 ### Type the food item you wish in search bar 
 
